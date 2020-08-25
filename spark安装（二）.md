@@ -1,4 +1,4 @@
-spark安装
+Spark安装
 ===
 
 spark默认使用的Python版本为2，可以修改.bashrc文件让spark默认使用python3。修改.bashrc增加如下行：  
